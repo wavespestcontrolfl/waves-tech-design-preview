@@ -59,3 +59,13 @@ The complete interactive concept is in [index.html](index.html), [style.css](sty
 ## Concept scope
 
 Actual photo capture, uploads, offline synchronization and the proposed Messages inbox are simulated. Sample records stay in the viewer's browser. No customer communications, appointment changes or charges occur. Actual treatment requires technician confirmation. Internal notes and access details stay out of customer report previews.
+
+## Local verification
+
+The browser regression suite uses Node’s test runner, Playwright, and an installed Google Chrome. With Playwright already available in your environment, run:
+
+```sh
+node --test tests/preview.test.cjs
+```
+
+If reusing Playwright from another checkout, set `NODE_PATH` to that checkout’s `node_modules` directory. The suite starts its own loopback static server and uses isolated browser sessions with fictional records; no backend or database is needed. It checks completion guards, saved-record navigation, required actuals, photo status, draft migration, and touch targets and overflow at 360, 390, 768, and 1440 pixels, plus contrast on the reported text selectors.

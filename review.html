@@ -1,12 +1,10 @@
 <!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"><meta name="robots" content="index, follow"><title>Waves Tech — Public Design Review</title><meta property="og:title" content="Waves Tech — Public Design Review"><meta property="og:image" content="https://wavespestcontrolfl.github.io/waves-tech-design-preview/design-board.png"><link rel="alternate" type="text/plain" href="review.txt" title="Plain-text design review"><style>
- :root{color-scheme:light;--ink:#16364b;--muted:#536d7c;--blue:#087bb5;--line:#dce5eb}*{box-sizing:border-box}body{margin:0;background:#f6f8f9;color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;font-size:16px;line-height:1.65}a{color:#076b9d}header{background:#04395e;color:#fff;padding:calc(20px + env(safe-area-inset-top,0px)) 28px 20px}header>div{max-width:1080px;margin:auto;font-size:21px;font-weight:650}main{max-width:1140px;margin:auto;padding:44px 28px 64px}h1{font-size:38px;line-height:1.2;letter-spacing:-1px;margin:0 0 20px}h2{font-size:27px;line-height:1.3;margin:0 0 12px}h3{font-size:18px;margin:0 0 10px}p{margin:0 0 18px}.intro{font-size:18px;max-width:910px;color:var(--muted)}.links{display:flex;gap:10px;flex-wrap:wrap;margin:24px 0 32px}.links a{display:flex;align-items:center;justify-content:center;padding:11px 16px;min-height:48px;background:white;border:1px solid var(--line);border-radius:9px;text-decoration:none;font-weight:600}.links a:first-child{background:var(--blue);color:white;border-color:var(--blue)}.board-image{display:block;width:100%;height:auto;border:1px solid var(--line);border-radius:14px}figure{margin:0}figcaption{font-size:14px;color:var(--muted);line-height:1.5;margin:10px 0 0}.screen-section{margin-top:45px;padding-top:30px;border-top:1px solid var(--line)}.purpose{color:var(--muted);max-width:900px}.screen-layout{display:grid;grid-template-columns:300px 1fr;gap:38px;margin-top:22px;align-items:start}.screen-layout img{display:block;width:100%;height:auto;border:1px solid var(--line);border-radius:14px}.screen-text{white-space:pre-wrap;overflow-wrap:anywhere;font:inherit;font-size:16px;margin:0;background:white;border:1px solid var(--line);border-radius:12px;padding:20px}.principles{padding-left:22px}.principles li{margin-bottom:8px}.scope{padding:22px;background:#eaf5fc;border-radius:12px;margin-top:34px}.scope p:last-child{margin:0}.footer{margin-top:28px;font-size:14px;color:var(--muted)}@media(max-width:700px){main{padding:30px 20px 48px}h1{font-size:30px}.screen-layout{grid-template-columns:1fr;gap:22px}.screen-layout figure{max-width:390px;margin:auto}.screen-text{font-size:16px}.links a{flex:1 1 145px}}@media print{@page{size:A4;margin:13mm}body{background:white;font-size:10pt}header{padding:9px 0;background:white;color:#04395e;border-bottom:1px solid #ddd}main{padding:15px 0;max-width:none}h1{font-size:27pt}h2{font-size:21pt}.intro,.purpose{font-size:11pt}.links{display:none}.board-image{max-height:180mm;object-fit:contain}.screen-section{break-before:page;margin:0;padding:10px 0;border:0}.screen-layout{grid-template-columns:61mm 1fr;gap:8mm}.screen-text{font-size:10pt;padding:10px}.screen-layout figure{break-inside:avoid}figcaption{font-size:8pt}.scope{break-inside:avoid}.footer{font-size:9pt}}
+ :root{color-scheme:light;--ink:#16364b;--muted:#536d7c;--blue:#087bb5;--line:#dce5eb}*{box-sizing:border-box}body{margin:0;background:#f6f8f9;color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;font-size:16px;line-height:1.65}a{color:#076b9d}header{background:#04395e;color:#fff;padding:calc(20px + env(safe-area-inset-top,0px)) 28px 20px}header>div{max-width:1080px;margin:auto;font-size:21px;font-weight:650}main{max-width:1140px;margin:auto;padding:44px 28px 64px}h1{font-size:38px;line-height:1.2;letter-spacing:-1px;margin:0 0 20px}h2{font-size:27px;line-height:1.3;margin:0 0 12px}h3{font-size:18px;margin:0 0 10px}p{margin:0 0 18px}.intro{font-size:18px;max-width:910px;color:var(--muted)}.links{display:flex;gap:10px;flex-wrap:wrap;margin:24px 0 32px}.links a{display:flex;align-items:center;justify-content:center;padding:11px 16px;min-height:48px;background:white;border:1px solid var(--line);border-radius:9px;text-decoration:none;font-weight:600}.links a:first-child{background:var(--blue);color:white;border-color:var(--blue)}.board-image{display:block;width:100%;height:auto;border:1px solid var(--line);border-radius:14px}figure{margin:0}figcaption{font-size:14px;color:var(--muted);line-height:1.5;margin:10px 0 0}.screen-section{margin-top:45px;padding-top:30px;border-top:1px solid var(--line)}.purpose{color:var(--muted);max-width:900px}.screen-layout{display:grid;grid-template-columns:300px 1fr;gap:38px;margin-top:22px;align-items:start}.screen-layout img{display:block;width:100%;height:auto;border:1px solid var(--line);border-radius:14px}.screen-text{white-space:pre-wrap;overflow-wrap:anywhere;font:inherit;font-size:16px;margin:0;background:white;border:1px solid var(--line);border-radius:12px;padding:20px}.principles{padding-left:22px}.principles li{margin-bottom:8px}.scope{padding:22px;background:#eaf5fc;border-radius:12px;margin-top:34px}.scope p:last-child{margin:0}.footer{margin-top:28px;font-size:14px;color:var(--muted)}@media(max-width:700px){main{padding:30px 20px 48px}h1{font-size:30px}.screen-layout{grid-template-columns:1fr;gap:22px}.screen-layout figure{max-width:390px;margin:auto}.screen-text{font-size:16px}.links a{flex:1 1 145px}}@media print{@page{size:A4;margin:13mm}body{background:white;font-size:10pt}header{padding:9px 0;background:white;color:#04395e;border-bottom:1px solid #ddd}main{padding:15px 0;max-width:none}h1{font-size:27pt}h2{font-size:21pt}.intro,.purpose{font-size:11pt}.links{display:none}.board-image{max-height:180mm;object-fit:contain}.screen-section{break-before:page;margin:0;padding:10px 0;border:0}.screen-layout{grid-template-columns:61mm 1fr;gap:8mm}.screen-text{font-size:10pt;line-height:1.2;padding:10px}.screen-layout figure{break-inside:avoid}figcaption{font-size:8pt}.scope{break-inside:avoid}.footer{font-size:9pt}}
  </style></head><body><header><div>Waves Tech · Field experience</div></header><main><h1>Waves Tech — Public Design Review</h1><p class="intro">A proposed mobile technician portal for Waves Pest Control. The workflow is Today → Current visit → Perform and document service → Review and finish. This page contains static screenshots and the screen text; it can be read without JavaScript, an account, or embedded frames.</p><nav class="links" aria-label="Design formats"><a href="index.html">Interactive walkthrough</a><a href="review.txt">Plain-text version</a><a href="waves-tech-design-review.pdf">Download PDF</a><a href="design-board.png">Full-size design image</a></nav><figure><a href="design-board.png"><img class="board-image" src="design-board.png" width="1640" height="1420" alt="Four Waves Tech mobile designs side by side: Today route with next stop, property visit with access notes, planned multi-product treatment with actual-use confirmation, and review with pending photos and report status."></a><figcaption>Four-screen design board. Full mobile screenshots and screen text follow.</figcaption></figure><section class="screen-section" id="today"><h2>01 · Today</h2><p class="purpose">See the next stop first, with arrival time, services, access instructions, directions, and contact. The rest of the day is a readable route list.</p><div class="screen-layout"><figure><a href="screenshots/mobile-today-390.png"><img src="screenshots/mobile-today-390.png" width="390" height="844" alt="01 · Today mobile UI: See the next stop first, with arrival time, services, access instructions, directions, and contact. The rest of the day is a readable route list."></a><figcaption>390 × 844 mobile viewport. Longer content scrolls within the app.</figcaption></figure><div><h3>Screen text</h3><pre class="screen-text">waves
 tech
 Demo
 Today
-
 Monday, September 7
-
 84°
 2 of 6 stops complete
 Lakewood Ranch
@@ -14,9 +12,7 @@ UP NEXT
 8 min drive
 10:00 AM–12:00 PM arrival
 Sample property 03
-
 100 Example Lane, Lakewood Ranch
-
 Lawn care
 ~35 min
 Side gate access · Dog in backyard
@@ -27,23 +23,17 @@ Map
 04
 11:00 AM–1:00 PM
 Sample property 04
-
 200 Example Lane
-
 Quarterly pest
 05
 1:00–3:00 PM
 Sample property 05
-
 300 Example Lane
-
 Lawn care · Mosquito
 06
 2:00–4:00 PM
 Sample property 06
-
 400 Example Lane
-
 Quarterly pest
 2 earlier stops completed
 Design preview · fictional properties
@@ -55,22 +45,16 @@ More</pre></div></div></section>
 Demo
 STOP 03 · LAKEWOOD RANCH
 Sample property 03
-
 100 Example Lane · Demo household
-
 Arrival 10:00 AM–12:00 PM
 Directions
 Contact
 Before you start
 2 to know
 Access &amp; pets
-
 Use the left side gate. Ask the customer to bring the dog inside before entering.
-
 Customer’s request
-
 “Please check the thin patch by the back patio.”
-
 Last visit · August 10
 Today’s work
 ~35 min
@@ -80,9 +64,7 @@ Inspect lawn · Record actual treatment
 4,000 sq ft · Backpack sprayer
 View treatment plan &amp; protocol
 Record the service
-
 Start service to confirm actual products, record findings, and add visit photos.
-
 Design preview · sample visit
 Sample visit · local draft
 Visit options
@@ -96,9 +78,7 @@ Demo
 Service in progress
 Sample property 03
 Today’s treatment
-
 Lawn care · Approved plan preview
-
 4,000 sq ft
 Treatment area
 20 gal
@@ -107,22 +87,16 @@ Check wind at the back patio before applying near the ornamental beds.
 Batch 01
 1 application pass
 Lawn nutrient blend
-
 Training product A · Sample plan
-
 8 fl oz planned
 Confirm actual
 Micronutrient blend
-
 Training product B · Sample plan
-
 16 fl oz planned
 Confirm actual
 Mix calculator
 Protocol
-
 0 of 2 products confirmed. Planned products are not recorded as applied.
-
 Areas treated
 Front lawn
 Back lawn
@@ -133,9 +107,7 @@ Concern observed
 Internal field notes · optional
 Visit photos
 Add photo
-
 Add a photo where you find it. It stays with this visit.
-
 Training products · illustrative quantities
 0/2 products confirmed
 Visit options
@@ -147,36 +119,24 @@ More</pre></div></div></section>
 <section class="screen-section" id="review"><h2>04 · Review and finish</h2><p class="purpose">Review confirmed facts once. See actual products, structured findings, pending photos, and a customer report preview before finishing.</p><div class="screen-layout"><figure><a href="screenshots/mobile-review-390.png"><img src="screenshots/mobile-review-390.png" width="390" height="844" alt="04 · Review and finish mobile UI: Review confirmed facts once. See actual products, structured findings, pending photos, and a customer report preview before finishing."></a><figcaption>390 × 844 mobile viewport. Longer content scrolls within the app.</figcaption></figure><div><h3>Screen text</h3><pre class="screen-text">Review &amp; finish
 Demo
 Ready to wrap up.
-
 Sample property 03 · Lawn care
-
 Today’s service
 2 products confirmed
-
 Nutrient blend · 8 fl oz
 Micronutrient blend · 16 fl oz
-
 Edit
 No new concerns
-
 Front lawn + Back lawn
-
 Edit
 2 photos waiting to upload
-
 Attached to this visit. Keep pending items visible.
-
 CUSTOMER REPORT PREVIEW
-
 Your lawn was inspected today. No new concerns were observed. Confirmed treatment is listed in your service record.
-
 Built from confirmed details. Internal notes stay private.
 Preview full report
 Service record only
-
 Report delivery is a separate outcome. Payment follows existing billing rules.
-
-I’ve reviewed the actual treatment and findings.
+Finish visit confirms this reviewed record. Confirm each product, select treated areas, and record a finding before finishing.
 Review saves the sample record
 Visit options
 Finish visit
@@ -187,26 +147,17 @@ More</pre></div></div></section>
 <section class="screen-section" id="success"><h2>05 · Completion outcome</h2><p class="purpose">Show the saved record, pending uploads, unsent customer report, and billing outcome separately. A saved visit does not imply every downstream step is complete.</p><div class="screen-layout"><figure><a href="screenshots/mobile-completion-390.png"><img src="screenshots/mobile-completion-390.png" width="390" height="844" alt="05 · Completion outcome mobile UI: Show the saved record, pending uploads, unsent customer report, and billing outcome separately. A saved visit does not imply every downstream step is complete."></a><figcaption>390 × 844 mobile viewport. Longer content scrolls within the app.</figcaption></figure><div><h3>Screen text</h3><pre class="screen-text">Visit outcome
 Demo
 Visit saved.
-
 Sample property 03
 Lawn care · Sample completion
-
 Service record saved
-
 Confirmed treatment and findings retained in this browser.
-
 2 photos waiting to upload
-
 Pending uploads remain attached to this visit.
-
 Customer report not yet sent
-
 Delivery remains visible as its own step.
-
 No charge created
-
 This sample completion does not move money.
-
+View saved record
 Simulate photo sync
 Next on your route
 Stop 04
