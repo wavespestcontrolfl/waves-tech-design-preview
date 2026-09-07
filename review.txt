@@ -14,9 +14,7 @@ waves
 tech
 Demo
 Today
-
 Monday, September 7
-
 84°
 2 of 6 stops complete
 Lakewood Ranch
@@ -24,9 +22,7 @@ UP NEXT
 8 min drive
 10:00 AM–12:00 PM arrival
 Sample property 03
-
 100 Example Lane, Lakewood Ranch
-
 Lawn care
 ~35 min
 Side gate access · Dog in backyard
@@ -37,23 +33,17 @@ Map
 04
 11:00 AM–1:00 PM
 Sample property 04
-
 200 Example Lane
-
 Quarterly pest
 05
 1:00–3:00 PM
 Sample property 05
-
 300 Example Lane
-
 Lawn care · Mosquito
 06
 2:00–4:00 PM
 Sample property 06
-
 400 Example Lane
-
 Quarterly pest
 2 earlier stops completed
 Design preview · fictional properties
@@ -75,22 +65,16 @@ Your visit
 Demo
 STOP 03 · LAKEWOOD RANCH
 Sample property 03
-
 100 Example Lane · Demo household
-
 Arrival 10:00 AM–12:00 PM
 Directions
 Contact
 Before you start
 2 to know
 Access & pets
-
 Use the left side gate. Ask the customer to bring the dog inside before entering.
-
 Customer’s request
-
 “Please check the thin patch by the back patio.”
-
 Last visit · August 10
 Today’s work
 ~35 min
@@ -100,9 +84,7 @@ Inspect lawn · Record actual treatment
 4,000 sq ft · Backpack sprayer
 View treatment plan & protocol
 Record the service
-
 Start service to confirm actual products, record findings, and add visit photos.
-
 Design preview · sample visit
 Sample visit · local draft
 Visit options
@@ -126,9 +108,7 @@ Demo
 Service in progress
 Sample property 03
 Today’s treatment
-
 Lawn care · Approved plan preview
-
 4,000 sq ft
 Treatment area
 20 gal
@@ -137,22 +117,16 @@ Check wind at the back patio before applying near the ornamental beds.
 Batch 01
 1 application pass
 Lawn nutrient blend
-
 Training product A · Sample plan
-
 8 fl oz planned
 Confirm actual
 Micronutrient blend
-
 Training product B · Sample plan
-
 16 fl oz planned
 Confirm actual
 Mix calculator
 Protocol
-
 0 of 2 products confirmed. Planned products are not recorded as applied.
-
 Areas treated
 Front lawn
 Back lawn
@@ -163,9 +137,7 @@ Concern observed
 Internal field notes · optional
 Visit photos
 Add photo
-
 Add a photo where you find it. It stays with this visit.
-
 Training products · illustrative quantities
 0/2 products confirmed
 Visit options
@@ -187,36 +159,24 @@ SCREEN TEXT
 Review & finish
 Demo
 Ready to wrap up.
-
 Sample property 03 · Lawn care
-
 Today’s service
 2 products confirmed
-
 Nutrient blend · 8 fl oz
 Micronutrient blend · 16 fl oz
-
 Edit
 No new concerns
-
 Front lawn + Back lawn
-
 Edit
 2 photos waiting to upload
-
 Attached to this visit. Keep pending items visible.
-
 CUSTOMER REPORT PREVIEW
-
 Your lawn was inspected today. No new concerns were observed. Confirmed treatment is listed in your service record.
-
 Built from confirmed details. Internal notes stay private.
 Preview full report
 Service record only
-
 Report delivery is a separate outcome. Payment follows existing billing rules.
-
-I’ve reviewed the actual treatment and findings.
+Finish visit confirms this reviewed record. Confirm each product, select treated areas, and record a finding before finishing.
 Review saves the sample record
 Visit options
 Finish visit
@@ -237,26 +197,17 @@ SCREEN TEXT
 Visit outcome
 Demo
 Visit saved.
-
 Sample property 03
 Lawn care · Sample completion
-
 Service record saved
-
 Confirmed treatment and findings retained in this browser.
-
 2 photos waiting to upload
-
 Pending uploads remain attached to this visit.
-
 Customer report not yet sent
-
 Delivery remains visible as its own step.
-
 No charge created
-
 This sample completion does not move money.
-
+View saved record
 Simulate photo sync
 Next on your route
 Stop 04
