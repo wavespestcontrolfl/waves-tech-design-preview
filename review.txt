@@ -2,7 +2,7 @@ Waves Tech — Public Design Review
 
 A proposed mobile technician portal for Waves Pest Control. The workflow is Today → Current visit → Perform and document service → Review and finish. This page contains static screenshots and the screen text; it can be read without JavaScript, an account, or embedded frames.
 
-Design board image: https://wavespestcontrolfl.github.io/waves-tech-design-preview/design-board.png
+Design board image: https://raw.githubusercontent.com/wavespestcontrolfl/waves-tech-design-preview/main/design-board.png
 Interactive walkthrough: https://wavespestcontrolfl.github.io/waves-tech-design-preview/
 PDF: https://wavespestcontrolfl.github.io/waves-tech-design-preview/waves-tech-design-review.pdf
 
@@ -63,7 +63,7 @@ Tools
 More
 
 SCREENSHOT
-https://wavespestcontrolfl.github.io/waves-tech-design-preview/screenshots/mobile-today-390.png
+https://raw.githubusercontent.com/wavespestcontrolfl/waves-tech-design-preview/main/screenshots/mobile-today-390.png
 
 ---
 
@@ -113,7 +113,7 @@ Tools
 More
 
 SCREENSHOT
-https://wavespestcontrolfl.github.io/waves-tech-design-preview/screenshots/mobile-visit-390.png
+https://raw.githubusercontent.com/wavespestcontrolfl/waves-tech-design-preview/main/screenshots/mobile-visit-390.png
 
 ---
 
@@ -176,7 +176,7 @@ Tools
 More
 
 SCREENSHOT
-https://wavespestcontrolfl.github.io/waves-tech-design-preview/screenshots/mobile-treatment-390.png
+https://raw.githubusercontent.com/wavespestcontrolfl/waves-tech-design-preview/main/screenshots/mobile-treatment-390.png
 
 ---
 
@@ -226,7 +226,7 @@ Tools
 More
 
 SCREENSHOT
-https://wavespestcontrolfl.github.io/waves-tech-design-preview/screenshots/mobile-review-390.png
+https://raw.githubusercontent.com/wavespestcontrolfl/waves-tech-design-preview/main/screenshots/mobile-review-390.png
 
 ---
 
@@ -270,7 +270,7 @@ Tools
 More
 
 SCREENSHOT
-https://wavespestcontrolfl.github.io/waves-tech-design-preview/screenshots/mobile-completion-390.png
+https://raw.githubusercontent.com/wavespestcontrolfl/waves-tech-design-preview/main/screenshots/mobile-completion-390.png
 
 DESIGN PRINCIPLES
 Today, Messages, Tools, More bottom navigation. Waves blue and navy with white surfaces. Readable controls and approximately 50–52 px primary action heights. Actual treatment requires technician confirmation. Multiple protocol-approved products can share a batch. Manual documentation does not depend on AI. Service save, upload, report delivery, and billing are distinct outcomes. Internal notes and access details stay out of customer reports.

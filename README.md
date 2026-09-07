@@ -4,7 +4,8 @@ A proposed mobile technician portal for Waves Pest Control, using fictional prop
 
 - [Open the interactive preview](https://wavespestcontrolfl.github.io/waves-tech-design-preview/)
 - [Open all screenshots with screen text](https://wavespestcontrolfl.github.io/waves-tech-design-preview/review.html)
-- [Read the complete screen text](review.txt)
+- [Read the complete screen text](https://raw.githubusercontent.com/wavespestcontrolfl/waves-tech-design-preview/main/review.txt)
+- [Open the design board PNG](https://raw.githubusercontent.com/wavespestcontrolfl/waves-tech-design-preview/main/design-board.png)
 - [Download the review PDF](waves-tech-design-review.pdf)
 
 ![Today, current visit, treatment, and review screens](design-board.png)
@@ -25,21 +26,31 @@ Today → Current visit → Perform and document service → Review and finish.
 
 ![Today mobile screen](screenshots/mobile-today-390.png)
 
+[Open this screenshot](https://raw.githubusercontent.com/wavespestcontrolfl/waves-tech-design-preview/main/screenshots/mobile-today-390.png)
+
 ### Current visit
 
 ![Current visit mobile screen](screenshots/mobile-visit-390.png)
+
+[Open this screenshot](https://raw.githubusercontent.com/wavespestcontrolfl/waves-tech-design-preview/main/screenshots/mobile-visit-390.png)
 
 ### Perform and document
 
 ![Treatment mobile screen](screenshots/mobile-treatment-390.png)
 
+[Open this screenshot](https://raw.githubusercontent.com/wavespestcontrolfl/waves-tech-design-preview/main/screenshots/mobile-treatment-390.png)
+
 ### Review and finish
 
 ![Review mobile screen](screenshots/mobile-review-390.png)
 
+[Open this screenshot](https://raw.githubusercontent.com/wavespestcontrolfl/waves-tech-design-preview/main/screenshots/mobile-review-390.png)
+
 ### Completion
 
 ![Completion mobile screen](screenshots/mobile-completion-390.png)
+
+[Open this screenshot](https://raw.githubusercontent.com/wavespestcontrolfl/waves-tech-design-preview/main/screenshots/mobile-completion-390.png)
 
 ## Source files
 
